@@ -1,0 +1,1 @@
+insert into department values(2,"B",101,"abc");
